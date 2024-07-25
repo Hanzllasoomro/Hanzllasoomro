@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java...
 - 💞️ I’m looking to collaborate on Web n App Development..
 - 📫 How to reach me :
--    Instagram & Thread : hanzllasoomro
--    Twitter : HanzllaSoomro
+      Instagram & Thread : hanzllasoomro
+      Twitter : HanzllaSoomro
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not simple...
 
