@@ -6,7 +6,19 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/Hanzllasoomro?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hanzllasoomro?label=Follow&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/hanzllasoomro">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanzlla%20Soomro-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Hanzllasoomro">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Hanzllasoomro.readme" alt="visitors" />
+  </a>
+</p>
 
+---
 ### 🧠 About Me
 - 🔭 I’m working on **modernizing the digital world** through elegant design and functional code.
 - 🌱 Always learning: currently diving deep into **DevOps**, **Linux**, **Cloud Platforms**, and **Automation**.
@@ -18,3 +30,5 @@
   Databases: MySQL, SQLite, Firebase
   DevOps: Docker, Git, GitHub Actions, Linux (CentOS, Ubuntu)
   Tools: Figma, Postman, VS Code, GitKraken
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hanzllasoomro&show_icons=true&theme=react&hide_border=true" alt="Hanzlla's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanzllasoomro&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanzllasoomro&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" /> </p>
