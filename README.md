@@ -32,4 +32,42 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hanzllasoomro&show_icons=true&theme=react&hide_border=true" alt="Hanzlla's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Hanzllasoomro&theme=dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanzllasoomro&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
+---
+
+### 🛠️ My Services
+- ✨ Web Design & Development (Full Stack)
+
+- 📱 App Development (Flutter, Android)
+
+- 🧩 UI/UX Design & Branding
+
+- 📈 SEO & Digital Marketing
+
+- 📝 Content & Copywriting
+
+- 🎞️ Social Media Creative & Video Editing
+
+---
+
+### 📜 Certifications
+
+| 📛 Certification                  | 🏢 Issuer           | 🗓️ Year        |
+|-----------------------------------|----------------------|-----------------|
+| Software Enginner                 | HackerRank           | 2025           |
+| Software Enginner Intern          | HackerRank           | 2025           |
+| Linux Administration              | Red Hat *(In Progress)* | 2025        |
+| Certified Web Developer           | FreeCodeCamp         | 2024           |
+| Frontend Development with React   | Meta                 | 2024           |
+| Database Management Systems       | Coursera             | 2023           |
+
+### 🚀 Featured Projects
+
+| 🌟 Project                         | 🔧 Tech Stack           | 🔎 Description                                         |
+|-----------------------------------|--------------------------|--------------------------------------------------------|
+| 💡 MarkShadows                    | React, Vite, Tailwind    | Sleek portfolio built with modern frontend tools       |
+| 🌱 EcoTrackify                    | Flutter, Firebase        | Sustainability tracker for daily carbon footprints     |
+| 🏢 SAP Automation Suite           | UiPath, Excel, SAP       | Exporting and visualizing SAP table data with bots     |
+| 🍎 Calorie Calculator             | Android                  | AI-powered food image to calorie calculator            |
+
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
