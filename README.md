@@ -105,6 +105,7 @@
 
 | 📛 Certification                  | 🏢 Issuer           | 🗓️ Year        |
 |-----------------------------------|----------------------|-----------------|
+| SQL(Advanced)                     | HackerRank           | 2025           |
 | Software Enginner                 | HackerRank           | 2025           |
 | Software Enginner Intern          | HackerRank           | 2025           |
 | Linux Administration              | Red Hat *(In Progress)* | 2025        |
