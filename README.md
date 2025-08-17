@@ -104,16 +104,19 @@
 ### 📜 Certifications
 
 | 📛 Certification                  | 🏢 Issuer           | 🗓️ Year        |
-|-----------------------------------|----------------------|-----------------|
-| SQL Injection Defense              | Google           | 2025           |
-| SQL Injection Defense              | Microsoft           | 2025           |
-| SQL(Advanced)                     | HackerRank           | 2025           |
-| Software Enginner                 | HackerRank           | 2025           |
-| Software Enginner Intern          | HackerRank           | 2025           |
-| Linux Administration              | Red Hat *(In Progress)* | 2025        |
-| Certified Web Developer           | FreeCodeCamp         | 2024           |
-| Frontend Development with React   | Meta                 | 2024           |
-| Database Management Systems       | Coursera             | 2023           |
+|-----------------------------------|-------------------------|-------------------|
+| SQL Injection Defense             | Google                  | 2025              |
+| SQL Injection Defense             | Microsoft               | 2025              |
+| CoA - AI & ML Bootcamp            | SkillHigh               | 2025              |
+| SQL(Advanced)                     | HackerRank              | 2025              |
+| Software Enginner                 | HackerRank              | 2025              |
+| CoC - Python Beginner             | Udemy                   | 2025              |
+| Software Enginner Intern          | HackerRank              | 2025              |
+| Linux Administration              | Red Hat *(In Progress)* | 2025              |
+| COP - Tableau : visualization     | SkillEcted              | 2025              |
+| Certified Web Developer           | FreeCodeCamp            | 2024              |
+| Frontend Development with React   | Meta                    | 2024              |
+| Database Management Systems       | Coursera                | 2023              |
 
 ### 🚀 Featured Projects
 
