@@ -105,6 +105,8 @@
 
 | 📛 Certification                  | 🏢 Issuer           | 🗓️ Year        |
 |-----------------------------------|----------------------|-----------------|
+| SQL Injection Defense              | Google           | 2025           |
+| SQL Injection Defense              | Microsoft           | 2025           |
 | SQL(Advanced)                     | HackerRank           | 2025           |
 | Software Enginner                 | HackerRank           | 2025           |
 | Software Enginner Intern          | HackerRank           | 2025           |
