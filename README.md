@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Hanzllasoomro?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hanzllasoomro?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/Hanzllasoomro?label=Followers&style=social" />
   </a>
   <a href="https://linkedin.com/in/hanzllasoomro">
     <img src="https://img.shields.io/badge/LinkedIn-Hanzlla%20Soomro-blue?style=flat&logo=linkedin" />
